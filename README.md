@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto prático de uma Calculadora de IMC da Trilha Explorer da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://hugolinobg.github.io/jogoAdivinhacao/)
+- [Acesse o projeto finalizado, online](https://hugolinobg.github.io/calculadoraIMC/)
 
 ## 🔖 Layout
 
