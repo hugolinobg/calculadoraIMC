@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Projeto Calculadora de IMC" src=".github/preview.png" width="75%">
   <br>
-  <img alt="Projeto Calculadora de IMC" src=".github/preview2.png" width="75%">
+  <img alt="Projeto Calculadora de IMC" src=".github/preview2a.png" width="75%">
   <br>
   <img alt="Projeto Calculadora de IMC" src=".github/preview3.png" width="75%">
 </p>
