@@ -66,6 +66,7 @@ button {
   line-height: 4rem;
 
   color: var(--headin);
+  text-align: center;
 }
 
 form h1 {
