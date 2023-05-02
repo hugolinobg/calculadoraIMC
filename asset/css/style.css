@@ -199,10 +199,21 @@ form button:hover {
   transition: transform 0.5s;
 }
 
+@media (max-width: 465px) {
+  .card {
+    padding: 1.8rem 2.4rem 2.4rem;
+    width: 30.8rem;
+  }
+
+  form input {
+    width: 100%;
+  }
+}
+
 @media (max-width: 290px) {
   .card {
     padding: 1.8rem 2.4rem 2.4rem;
-    width: 22.8rem;
+    width: 24.8rem;
   }
 
   .title {
@@ -212,15 +223,9 @@ form button:hover {
   form input {
     width: 100%;
   }
-}
 
-@media (max-width: 465px) {
-  .card {
-    padding: 1.8rem 2.4rem 2.4rem;
-    width: 30.8rem;
-  }
-
-  form input {
-    width: 100%;
+  .modal button {
+    top: 1.3rem;
+    right: 1.3rem;
   }
 }
